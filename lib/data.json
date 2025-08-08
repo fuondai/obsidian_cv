@@ -1,0 +1,90 @@
+{
+  "name": "BUI PHUONG DAI",
+  "tagline": "Smart Contract Auditor",
+  "location": "Di An, Binh Duong, Viet Nam",
+  "email": "daibp.infosec@gmail.com",
+  "phone": "+84 862 909 370",
+  "links": {
+    "github": "https://github.com/fuondai",
+    "linktree": "https://linktr.ee/fuondai"
+  },
+  "summary": "Information Security chuyên blockchain security & smart contract auditing. Thành thạo Substrate, ink!, Polkadot/Kusama, XCM. Kinh nghiệm audit đa nền tảng, formal verification, fuzzing, và automated security testing.",
+  "skills": {
+    "Blockchain": [
+      "Smart Contract Auditing",
+      "Substrate",
+      "ink!",
+      "Polkadot/Kusama",
+      "XCM",
+      "FRAME",
+      "Consensus",
+      "DeFi Architecture"
+    ],
+    "Programming": [
+      "Rust",
+      "Solidity",
+      "Python"
+    ],
+    "SecurityTools": [
+      "Slither",
+      "MythX",
+      "Echidna",
+      "Fuzzing",
+      "Formal Verification",
+      "Static/Dynamic Analysis"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Research Intern – Blockchain Security & Smart Contract Audit",
+      "org": "InSecLab – UIT",
+      "where": "Ho Chi Minh City, Vietnam",
+      "when": "Jan 2023 – Present",
+      "bullets": [
+        "Audit 15+ smart contracts; phát hiện critical; ~78% security improvement rate.",
+        "Automated testing cho ứng dụng blockchain, giảm 65% thời gian manual.",
+        "Phân tích NPoS & XCM cross-consensus messaging."
+      ]
+    },
+    {
+      "title": "Blockchain Developer (Open Source)",
+      "org": "Remote",
+      "when": "Jan 2023 – May 2023",
+      "bullets": [
+        "Tối ưu gas ~43% (EIP-1559 + Substrate).",
+        "Viết runtime module tăng throughput ~200%.",
+        "Tool monitor cross-chain XCM."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "QTrust-Dev: Advanced Blockchain Sharding Framework",
+      "desc": "Sharding với Deep RL + Federated Learning: parallel tx, adaptive consensus, multi-level trust (~1,240 TPS).",
+      "tags": [
+        "Sharding",
+        "DRL",
+        "Security"
+      ],
+      "repo": "https://github.com/fuondai"
+    },
+    {
+      "name": "DQNSB-Blockchain: Deep Q-Network Sharded Blockchain",
+      "desc": "PoC sharded blockchain dùng distributional RL; +300% throughput, −65% overhead cross-shard.",
+      "tags": [
+        "DRL",
+        "Sharded",
+        "Consensus"
+      ],
+      "repo": "https://github.com/fuondai"
+    }
+  ],
+  "certs": [
+    "Hacksplaining Security Training",
+    "Polkadot Bootcamp",
+    "UIT English Contest – 2nd Prize (2024)",
+    "Youth Creative Competition – 1st Prize (2019)",
+    "City-level Excellent Student (2018–2019)",
+    "VSTEP B2"
+  ]
+}
