@@ -1,4 +1,5 @@
 "use client";
+import * as THREE from "three";
 import { Canvas } from "@react-three/fiber";
 import { Float, OrbitControls } from "@react-three/drei";
 import { Suspense, useMemo } from "react";
